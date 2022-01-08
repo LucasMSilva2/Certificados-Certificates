@@ -5,3 +5,4 @@ Olá! Bem vindo a minha área de certificados :handshake:
 > Essas são algumas das minhas qualificações.
 
 - CURSO HTML5 E CSS3: MÓDULO 1 DE 5 [40 HORAS]
+- INTRODUÇÃO AO GIT E AO GITHUB [05 HORAS]
